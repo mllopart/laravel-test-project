@@ -1,0 +1,7 @@
+[19-Jun-2017 14:58:34 UTC] PHP Parse error:  syntax error, unexpected '.', expecting '&' or variable (T_VARIABLE) in /home/ubuntu/workspace/bookmark_cloud/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 444
+[19-Jun-2017 14:58:34 UTC] PHP Stack trace:
+[19-Jun-2017 14:58:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/bookmark_cloud/public/index.php:0
+[19-Jun-2017 14:58:34 UTC] PHP   2. require() /home/ubuntu/workspace/bookmark_cloud/public/index.php:22
+[19-Jun-2017 14:58:34 UTC] PHP   3. require() /home/ubuntu/workspace/bookmark_cloud/bootstrap/autoload.php:17
+[19-Jun-2017 14:58:34 UTC] PHP   4. ComposerAutoloaderInit514f8ecfa34e0db73aaea09a3d66bb99::getLoader() /home/ubuntu/workspace/bookmark_cloud/vendor/autoload.php:7
+[19-Jun-2017 14:58:34 UTC] PHP   5. composerRequire514f8ecfa34e0db73aaea09a3d66bb99() /home/ubuntu/workspace/bookmark_cloud/vendor/composer/autoload_real.php:56
